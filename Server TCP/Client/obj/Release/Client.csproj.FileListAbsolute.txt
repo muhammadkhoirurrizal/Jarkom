@@ -1,0 +1,6 @@
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Client\bin\Release\Client.exe.config
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Client\bin\Release\Client.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Client\bin\Release\Client.pdb
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Client\obj\Release\Client.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Client\obj\Release\Client.pdb

@@ -1,0 +1,14 @@
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Server\bin\Debug\Server.exe.config
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Server\bin\Debug\Server.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Server\bin\Debug\Server.pdb
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Server\obj\Debug\Server.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Server\obj\Debug\Server.pdb
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Server\bin\Debug\Server.exe.config
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Server\bin\Debug\Server.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Server\bin\Debug\Server.pdb
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Server\obj\Debug\Server.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server TCP\Server\obj\Debug\Server.pdb

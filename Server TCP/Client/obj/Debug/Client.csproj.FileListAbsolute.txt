@@ -1,0 +1,7 @@
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Client\bin\Debug\Client.exe.config
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Client\bin\Debug\Client.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Client\bin\Debug\Client.pdb
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Client\obj\Debug\Client.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Client\obj\Debug\Client.pdb
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
