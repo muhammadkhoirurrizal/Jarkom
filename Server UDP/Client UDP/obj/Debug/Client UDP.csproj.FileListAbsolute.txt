@@ -1,0 +1,7 @@
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server UDP\Client UDP\bin\Debug\Client UDP.exe.config
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server UDP\Client UDP\bin\Debug\Client UDP.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server UDP\Client UDP\bin\Debug\Client UDP.pdb
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server UDP\Client UDP\obj\Debug\Client UDP.csproj.CoreCompileInputs.cache
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server UDP\Client UDP\obj\Debug\Client UDP.exe
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server UDP\Client UDP\obj\Debug\Client UDP.pdb
+E:\Tugas\Kuliah\Semester 6\P Fahim\Server UDP\Client UDP\obj\Debug\Client UDP.csprojResolveAssemblyReference.cache
